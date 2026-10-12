@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.GpsSos" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#FCFCFA</item>
+        <item name="android:colorAccent">#AB292D</item>
+    </style>
+    <color name="launcher_background">#AB292D</color>
+</resources>
